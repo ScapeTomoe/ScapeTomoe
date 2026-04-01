@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm ScapeTomoe 👋
 
-<!--
-**ScapeTomoe/ScapeTomoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- **Main:** `Java`, `C`, `Rust`
+- **Low-level:** `x86_64 Assembly`
+- **OS:** `Linux`, `Windows`
 
-Here are some ideas to get you started:
+## 🚫 Deprecated
+- `Python` (I can't write it due to its **grammar**. Indentation-based logic is not for me.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working on
+- Developing a custom OS from scratch.
+- Exploring bare-metal programming.
+
+---
+> "Control the hardware, or be controlled by the software."
