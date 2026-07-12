@@ -5,11 +5,11 @@
 - **Low-level:** `x86_64 Assembly`
 - **OS:** `Linux`, `Windows`
 
-## 🚫 Deprecated
-- `Python` (I can't write it due to its **grammar**. Indentation-based logic is not for me.)
+## Languages I rarely use
+- Python (I don't use it often.)
 
 ## 🔭 Currently Working on
-- Developing a custom OS from scratch.
+- Developing a custom operating system in Rust.
 - Exploring bare-metal programming.
 
 ---
